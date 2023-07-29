@@ -1,5 +1,5 @@
 {
-  "name": "test-vue-json-schema-form",
+  "name": "form-typechat-monorepo",
   "version": "0.0.0",
   "description": "利用typechat来构建表单",
   "main": "index.js",
