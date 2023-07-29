@@ -5,7 +5,7 @@
 
 ### 背景
 
-7月21日的时候，[Anders Hejlsberg](https://twitter.com/ahejlsberg)宣布了新的项目宣布了全新的开源项目 —— [TypeChat](https://microsoft.github.io/TypeChat/blog/introducing-typechat/)。
+7月21日的时候，[Anders Hejlsberg](https://twitter.com/ahejlsberg)宣布了全新的开源项目 —— [TypeChat](https://microsoft.github.io/TypeChat/blog/introducing-typechat/)。
 当时的推文[链接](https://twitter.com/ahejlsberg/status/1682068311415341057?s=20)
 
 中文自媒体关于此事的[相关信息](https://zhuanlan.zhihu.com/p/645084158)
