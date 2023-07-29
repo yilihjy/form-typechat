@@ -1,0 +1,12 @@
+{
+  "name": "test-vue-json-schema-form",
+  "version": "0.0.0",
+  "description": "利用typechat来构建表单",
+  "main": "index.js",
+  "scripts": {
+    "start": "pnpm --filter=server start"
+  },
+  "author": "yilihjy@gmail.com",
+  "private": true,
+  "license": "MIT"
+}

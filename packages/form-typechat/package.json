@@ -1,0 +1,26 @@
+{
+  "name": "form-typechat",
+  "version": "0.0.1",
+  "description": "基于typechat创建表单schema",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": "./dist/index.js",
+    "./schema": "./dist/FormSchema.d.ts"
+  },
+  "scripts": {
+    "start": "npm run build && node ./dist/main.js",
+    "build": "node beforeBuild.js && tsc -p src",
+    "postinstall": "npm run build"
+  },
+  "author": "yilihjy@gmail.com",
+  "private": true,
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "typechat": "^0.0.10"
+  },
+  "devDependencies": {
+    "@types/node": "^20.3.1",
+    "typescript": "^5.1.3"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "front-end",
+  "author": "yilihjy@gmail.com",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview",
+    "postinstall": "npm run build"
+  },
+  "dependencies": {
+    "@lljj/vue3-form-element": "^1.17.1",
+    "element-plus": "^2.3.8",
+    "vue": "^3.3.4",
+    "form-typechat": "workspace:*"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "typescript": "^5.0.2",
+    "vite": "^4.4.5",
+    "vue-tsc": "^1.8.5"
+  }
+}
