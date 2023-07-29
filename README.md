@@ -81,7 +81,7 @@ App is running at http://localhost:3610
 生成结果如图  
 ![结果示例](screenshot/form-typechat-result.png)
 
-作为对比，如果我们使用相同问题询问ChatGPT，我们需要反复引导对话，才能逐步将结果引导到符合我们预期的结果。
+作为对比，如果我们使用相同问题询问ChatGPT，我们需要反复引导对话，才能逐步将结果引导到符合我们预期的结果。  
 ![对比1](screenshot/gpt-result1.png)
 ![对比2](screenshot/gpt-result2.png)
 ![对比3](screenshot/gpt-result3.png)
